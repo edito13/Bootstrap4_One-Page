@@ -25,7 +25,7 @@
 - Animate.css
 
 ### Implantação do Projecto
-- O projecto está hospedado na **Vercel**
+- O projecto está hospedado na **Vercel**: https://bootstrap4-one-page.vercel.app/
 
 ### Autor
 ***
